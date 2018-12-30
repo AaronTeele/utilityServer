@@ -1,0 +1,2 @@
+const Math = require('./math')
+
